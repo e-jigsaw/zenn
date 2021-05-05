@@ -6,6 +6,6 @@
   "author": "jigsaw <m@jgs.me>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.21"
+    "zenn-cli": "^0.1.79"
   }
 }
